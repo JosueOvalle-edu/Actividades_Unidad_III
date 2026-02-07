@@ -1,0 +1,23 @@
+Algoritmo (Actividad Extraordinaria Unidad 1)
+
+Problema: Algunos productos estaban a punto de vencerse y necesitaban venderse rápido.
+
+Solución: 
+
+1. Seleccionar una línea de productos.
+
+2. Sacarlos de la repisa.
+
+3. Revisar la fecha de vencimiento de cada uno.
+
+4. Apartar los que estén a mínimo 2 meses para vencerse.
+
+5. Agarrar los que no se apartaron.
+
+6. Volver a colocarlos en la repisa.
+
+7. Agarrar los apartados.
+
+8. Colocarlos en el mostrador.
+
+De este modo les damos más visibilidad y una prioridad al ser los primeros que se dan si alguien pide ese producto.
